@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/palak3005/DSA-Practice-Leetcode/tree/master/0027-remove-element) |
 | [0443-string-compression](https://github.com/palak3005/DSA-Practice-Leetcode/tree/master/0443-string-compression) |
 ## Greedy
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/palak3005/DSA-Practice-Leetcode/tree/master/0027-remove-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/palak3005/DSA-Practice-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/palak3005/DSA-Practice-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
